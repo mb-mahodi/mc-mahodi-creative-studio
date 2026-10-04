@@ -13,12 +13,12 @@
 <br />
 
 <a href="docs/images/hero-preview.jpg">
-  <img src="docs/images/hero-preview.jpg" alt="MC Mahodi Creative Studio landing page, featuring its vivid red video hero, animated introduction, and contact buttons" width="100%" />
+  <img src="docs/images/hero-preview.jpg" alt="Homepage screenshot: MC Mahodi Creative Studio's first screen with the red video hero, navigation, introduction, and contact buttons" width="100%" />
 </a>
 
 <br />
 
-*Move your cursor horizontally across the hero to scrub the background video.*
+*Homepage · Move your cursor horizontally across the hero to scrub the background video.*
 
 </div>
 
